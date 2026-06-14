@@ -45,6 +45,7 @@ I focus on building:
 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/angelo-longoria/
 - Email: arlongoria@outlook.com
+  
 ⚡ Current Focus
 
 Right now I’m focused on:

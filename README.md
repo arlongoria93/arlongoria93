@@ -34,6 +34,7 @@ Workflow
 - Git / GitHub
 - REST APIs
 - Basic Stripe integration experience
+  
 📌 What I Build
 
 I focus on building:

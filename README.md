@@ -1,25 +1,59 @@
-### Hi there 👋🏾
-#### Portfolio: http://angelolongoria.dev
-####  🧑🏾‍🦱 About me:
-- 👨🏾‍💻 Software Engineer
-- 💻 Technologies: Javascript, Next.js, React.js, Redux.js, Node.js, Express.js HTML, CSS, PostGreSQL, Sequelize, Git, Prisma
-#### 🌱 I’m currently learning Typescript
+👋 Hi, I’m Angelo Longoria
 
-####  📫 How to reach me:
-- LinkedIn: https://www.linkedin.com/in/angelo-longoria/
-- Email: arlongoria@outlook.com
+Frontend-focused Software Engineer building modern web applications with Next.js, React, and TypeScript.
 
+I enjoy turning real UI/UX designs into fast, responsive, and production-ready applications.
 
+🧠 About Me
+💻 Software Engineer focused on frontend development
+⚛️ Specializing in React / Next.js ecosystems
+🎯 Passionate about building clean, usable interfaces
+📱 Strong focus on responsive, mobile-first design
+🌱 Currently improving TypeScript, architecture, and backend integration
+🛠️ Tech Stack
 
+Frontend
 
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript (ES6+)
+TypeScript
+React.js
+Next.js
+HTML / CSS
+Tailwind CSS
+Redux
+
+Backend / Tools
+
+Node.js
+Express.js
+PostgreSQL
+Prisma
+Sequelize
+
+Workflow
+
+Git / GitHub
+REST APIs
+Basic Stripe integration experience
+📌 What I Build
+
+I focus on building:
+
+Ecommerce applications
+Multi-page frontend systems
+UI-heavy web apps
+API-integrated projects
+📫 Contact
+LinkedIn: https://www.linkedin.com/in/angelo-longoria/
+Email: arlongoria@outlook.com
+⚡ Current Focus
+
+Right now I’m focused on:
+
+Building stronger full-stack projects
+Improving system design understanding
+Writing cleaner, scalable React architecture
+Expanding backend/API knowledge
+🔥 Closing Note
+
+I like building practical, real-world applications—not just tutorials. My goal is to keep improving through projects that feel close to production-level software.
